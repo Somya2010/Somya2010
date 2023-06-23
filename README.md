@@ -1,4 +1,4 @@
-### Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px"> 
+### Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"  height="25px"> 
 
 <!--
 Somya2010/Somya2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
