@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 * Mentee at #include<her> Cohort 1.0 and #include<her> Cohort 2.0.
 * Google Crowdsource Influencer. 
 * Open Source Contributor at GSSOC, TSOC and SSOC.
+* Top performer in 6Companies30Days Challenge.
   
 
 <!-- About-Me:End -->
