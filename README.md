@@ -47,19 +47,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+<img align="right" width="400px" src="https://github.com/user-attachments/assets/47be1868-53f0-4acd-b87a-a332624462ce"> 
+
+## About Me:
+- 🌱 I’m currently learning Web3 and AR/VR
+- 👯 I’m looking to collaborate on open source
+- 📫 Reach me at: https://linktr.ee/Somya20
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Started teaching anywhere irrespective of number of students present!
+  
+---
 <h1 align="center">I'm Somya Sharma</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDK44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Content+Writer;Graphic+Designer"/> 
 </div>
 <h3 align="center">B.Tech Electronics and Communication Engineering, Student at Rajasthan Technical University, India</h3>
 
-###About
-
-- 🌱 I’m currently learning Web3 and AR/VR
-- 👯 I’m looking to collaborate on open source
-- 📫 Reach me at: https://linktr.ee/Somya20
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Started teaching anywhere irrespective of number of students present!
 
 ###Technologies
 
