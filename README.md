@@ -1,4 +1,36 @@
-### Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"  height="25px"> 
+ <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/df60b5c6-e899-4061-b18e-7c7ce517c145" align="center" />	
+</div>  
+</br>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+
+<p align="center"> 
+         <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
+</a>
+<a href="#">
+         <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=About.me&logoColor=0A0209" />
+</a>
+<a href="#">
+	<img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209" />
+</a>
+<a href="#">
+	<img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" />
+</a>
+<a href="#">
+	<img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" />
+</a>
+</p>
+
+---
+
 
 <!--
 Somya2010/Somya2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
