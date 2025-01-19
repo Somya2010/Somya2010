@@ -33,7 +33,7 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img align="right" width="400px" src="https://github.com/user-attachments/assets/dcaa74e6-ea1a-465f-89e1-1a57945ad976"> 
+<img align="right" width="350px" src="https://github.com/user-attachments/assets/dcaa74e6-ea1a-465f-89e1-1a57945ad976"> 
 
 ## About Me:
 - 🌱 I’m currently learning Web3 and AR/VR
@@ -46,22 +46,7 @@
 * Google Crowdsource Influencer.
 * Women in Tech Global Conference (WTGC) Scholar '23 <br>
   
----
 
-###Achievements
-
-<!-- About-Me:START -->
-
-* Women in Tech Global Conference (WTGC) Scholar '23
-* Mentee at #include<her> Cohort 1.0 and #include<her> Cohort 2.0.
-* Google Crowdsource Influencer. 
-* Open Source Contributor at GSSOC, TSOC and SSOC.
-* Top performer in 6Companies30Days Challenge.
-  
-
-<!-- About-Me:End -->
-
-Feel free to connect with me at https://linktr.ee/Somya20. Let's connect and grow together!
 
 
 
