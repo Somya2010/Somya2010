@@ -39,6 +39,7 @@
 - Pronouns: She/Her
 - I’m Founder at [SheBright](#)
 - I’m Chief Operating Officer at [ChromeGaming](https://www.linkedin.com/company/chromegaming/)
+- Worked as a Community Manager at [GirlScript Summer of Code'24](https://gssoc.girlscript.tech/team)
 - Final Year Student of B.Tech (Electronic & Communication engineering) at [Rajasthan Technical University, Kota](https://www.rtu.ac.in/index/)
 - Aditionally Working as a Chaiperson at [GFG Student Chapter RTU](https://www.geeksforgeeks.org/colleges/rajasthan-technical-university-rtu-kota/)
 - I'm a beta (β) level [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors)
