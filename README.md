@@ -33,18 +33,18 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img align="right" width="350px" src="https://github.com/user-attachments/assets/dcaa74e6-ea1a-465f-89e1-1a57945ad976"> 
+<img align="right" width="380px" src="https://github.com/user-attachments/assets/dcaa74e6-ea1a-465f-89e1-1a57945ad976"> 
 
 ## About Me:
-- 🌱 I’m currently learning Web3 and AR/VR
-- 👯 I’m looking to collaborate on open source
-- 📫 Reach me at: https://linktr.ee/Somya20
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Started teaching anywhere irrespective of number of students present!
-- Women in Tech Global Conference (WTGC) Scholar '23
-* Mentee at #include<her> Cohort 1.0 and #include<her> Cohort 2.0.
-* Google Crowdsource Influencer.
-* Women in Tech Global Conference (WTGC) Scholar '23 <br>
+- Pronouns: She/Her
+- I’m Founder at [SheBright](#)
+- I’m Chief Operating Officer at [ChromeGaming](https://www.linkedin.com/company/chromegaming/)
+- Final Year Student of B.Tech (Electronic & Communication engineering) at [Rajasthan Technical University, Kota](https://www.rtu.ac.in/index/)
+- Aditionally Working as a Chaiperson at [GFG Student Chapter RTU](https://www.geeksforgeeks.org/colleges/rajasthan-technical-university-rtu-kota/)
+- I'm a beta (β) level [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors)
+- Women in Tech Global Conference [WTGC](https://www.womentech.net/en-in/node/102994) Scholar '23
+* Mentee at [#include<her> Cohort 1.0](https://reskilll.com/event/sboa1.0) and [#include<her> Cohort 2.0](https://reskilll.com/event/appdevcohort).
+* Google [Crowdsource Influencer](https://crowdsource.google.com/about/community/). <br>
   
 
 
