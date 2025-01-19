@@ -6,12 +6,10 @@
 <img src="https://github.com/user-attachments/assets/9f892143-1cb4-4b52-b054-f4e828d18dbe" align="center" />	
 </div>  
 </br>
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
-
 <p align="center"> 
          <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
 </a>
@@ -31,29 +29,11 @@
 
 ---
 
-
-<!--
-Somya2010/Somya2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-###About
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-
-<img align="right" width="400px" src="https://github.com/user-attachments/assets/47be1868-53f0-4acd-b87a-a332624462ce"> 
+<img align="right" width="400px" src="https://github.com/user-attachments/assets/dcaa74e6-ea1a-465f-89e1-1a57945ad976"> 
 
 ## About Me:
 - 🌱 I’m currently learning Web3 and AR/VR
@@ -61,6 +41,10 @@ Here are some ideas to get you started:
 - 📫 Reach me at: https://linktr.ee/Somya20
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Started teaching anywhere irrespective of number of students present!
+- Women in Tech Global Conference (WTGC) Scholar '23
+* Mentee at #include<her> Cohort 1.0 and #include<her> Cohort 2.0.
+* Google Crowdsource Influencer.
+* Women in Tech Global Conference (WTGC) Scholar '23 <br>
   
 ---
 
