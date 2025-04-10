@@ -39,13 +39,13 @@
 - Pronouns: She/Her
 - I’m Founder at [SheBright](#)
 - I’m Chief Operating Officer at [ChromeGaming](https://www.linkedin.com/company/chromegaming/)
-- Worked as a Community Manager at [GirlScript Summer of Code'24](https://gssoc.girlscript.tech/team)
-- Final Year Student of B.Tech (Electronic & Communication engineering) at [Rajasthan Technical University, Kota](https://www.rtu.ac.in/index/)
-- Aditionally Working as a Chaiperson at [GFG Student Chapter RTU](https://www.geeksforgeeks.org/colleges/rajasthan-technical-university-rtu-kota/)
+- Worked as a Community Manager at [GirlScript Summer of Code'24](https://gssoc.girlscript.tech/team) and Program Manager at Girl Up Coders. 
+- Final Year Student of B.Tech (Electronic & Communication Engineering) at [Rajasthan Technical University, Kota](https://www.rtu.ac.in/index/)
+- Additionally Ex-Chairperson at [GFG Student Chapter RTU](https://www.geeksforgeeks.org/colleges/rajasthan-technical-university-rtu-kota/)
 - I'm a beta (β) level [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors)
 - Women in Tech Global Conference [WTGC](https://www.womentech.net/en-in/node/102994) Scholar '23
-* Mentee at [#include<her> Cohort 1.0](https://reskilll.com/event/sboa1.0) and [#include<her> Cohort 2.0](https://reskilll.com/event/appdevcohort).
-* Google [Crowdsource Influencer](https://crowdsource.google.com/about/community/). <br>
+* Women Community Leader [#Code4GovTech](https://codeforgovtech.in/).
+* Google Arcade Facilitator'25. <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- --   Skils    --------------------------------------------------------------------------------------------------------------------------------------- -->
